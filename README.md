@@ -1,3 +1,4 @@
+
 # myPod
 
 [![CI Status](https://img.shields.io/travis/401788217@qq.com/myPod.svg?style=flat)](https://travis-ci.org/401788217@qq.com/myPod)
@@ -22,8 +23,9 @@ pod 'myPod'
 
 ## Author
 
-401788217@qq.com, 809184491@qq.com
+ 809184491@qq.com
 
 ## License
 
 myPod is available under the MIT license. See the LICENSE file for more info.
+
