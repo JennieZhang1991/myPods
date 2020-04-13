@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/JennieZhang1991/myPods'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '809184491@qq.com' }
+  s.author           = { '401788217@qq.com' => '809184491@qq.com' }
   s.source           = { :git => 'https://github.com/JennieZhang1991/myPods.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
